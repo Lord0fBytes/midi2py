@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings>
+  <setting channel="11" note="0" command_string="ResetTemperature"/>
+  <setting channel="11" controller="1" command_string="Temperature"/>
+  <setting channel="11" note="40" command_string="profile1"/>
+  <setting channel="11" note="41" command_string="profile2"/>
+  <setting channel="11" note="42" command_string="profile3"/>
+  <setting channel="11" note="43" command_string="profile4"/>
+  <setting channel="11" note="15" command_string="Unmapped"/>
+  <setting channel="11" note="23" command_string="Unmapped"/>
+</settings>
